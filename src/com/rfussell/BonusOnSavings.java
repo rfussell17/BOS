@@ -3,7 +3,6 @@ package com.rfussell;
 
 
 /**
- * Assignment1 Q2, COMP 268
  * Class: BonusOnSavings.java
  * Purpose: Write a program to compute the total bonus amount earned by 2 employees in the year.
  * @author: Robin Fussell
